@@ -3,11 +3,12 @@
 Welcome to my personal portfolio website! This is a showcase of my skills, projects, and professional journey.
 
 ## 🚀 Live Demo
-Check out the live website: [Demo](https://priyanshusingh017.github.io/Portfolio/)
 
 <div align="center">
   <img src="demo2.gif" alt="Demo" width="100%">
 </div>
+
+Check out the live website: [Demo](https://priyanshusingh017.github.io/Portfolio/)
 
 ## ✨ Features
 - Responsive design that works on all devices
